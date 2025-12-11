@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "579589133545",
+    "project_id": "runnerapp-8ab25",
+    "storage_bucket": "runnerapp-8ab25.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:579589133545:android:43b036f02b315364484c78",
+        "android_client_info": {
+          "package_name": "com.example.listme_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVgN4N9t9hnAc5QMR4NOK2QvoS26FueZE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
